@@ -1,0 +1,6 @@
+__pycache__/
+.idea/
+venv/
+
+client.csv
+server.csv
